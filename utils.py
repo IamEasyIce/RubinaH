@@ -183,6 +183,19 @@ async def save_group_settings(group_id, key, value):
     temp.SETTINGS[group_id] = current
     await db.update_settings(group_id, current)
     
+async def send_more_files(name):
+    name = get_name(name)
+    name = name.split(".")[:3]
+    name = ' '.join(name)
+    name = name.split(" ")[:3]
+    name = ' '.join(name)
+    files, offset, total_results = await get_search_results(name.lower(), offset=0, filter=True)
+    if len(files) > 15:
+        files = files[:15]
+    if files:
+        return files
+
+
 def get_size(size):
     """Get size in readable format"""
 
@@ -193,6 +206,14 @@ def get_size(size):
         i += 1
         size /= 1024.0
     return "%.2f %s" % (size, units[i])
+
+def gen_url(link):
+#     try:
+#         urllink = shortner.tinyurl.short(link)
+#     except Exception:
+#         urllink = link
+    return urllink
+
 
 def split_list(l, n):
     for i in range(0, len(l), n):
