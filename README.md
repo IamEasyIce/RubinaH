@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="assets/logo.jpg" alt="Rubina Logo">
 </p>
 <h1 align="center">
-  <b>Nataliya Bot</b>
+  <b>Rubina Bot</b>
 </h1>
 
 ## Deploy
@@ -23,7 +23,7 @@ You can deploy this bot anywhere.
 
 The fastest way to deploy the application is to click the **Deploy to Koyeb** button below.
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/iameasyice/nataliya)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/iameasyice/rubina)
 
 
 ## Commands
