@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = "<b>🧤Helo {}, I'm <a href=https://telegram.me/{}>{}</a> &amp; I Can Provide You Any Movies &amp; Series</b> 😇"
+    START_TXT = "<b>🧤Helo {}, I'm <a href=https://telegram.me/{}>{}</a> &amp; I Can Provide You Any Porn Movies &amp; Series</b> 😇"
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
@@ -139,23 +139,21 @@ Check Your Spelling, Release Date, If You Still Don't Get The Movie Then Type Li
 Owner Will Update The Movie Within 24Hour"""
 
     MINFO = """
-⚠ How To Request Movies ⁉️ »
+⚠ How To Request Porn ⁉️ »
 ⊱⋅ ─────────────── ⋅⊰
-› Avatar ✅
-› Avatar 2009 720p ✅
-› Avatar 2009 720p Hindi ✅
-
-› Don't Type Movie, Upload, Please, Symbol ❌
+› Type Any Pornstar Name Or Category Tag Like...
+› Dani Daniels ✅
+› Anal ✅
+› Lesbian ✅
 """
 
     SINFO = """
-⚠ How To Request Series ⁉️ »
+⚠ How To Request Porn ⁉️ »
 ⊱⋅ ─────────────── ⋅⊰
-› Flash S01 ✅
-› Flash Hindi ✅
-› Flash S01E02 Hindi ✅
-
-› Don't Type Movie, Upload, Please, Symbol ❌
+› Type Any Pornstar Name Or Category Tag Like...
+› Dani Daniels ✅
+› Anal ✅
+› Lesbian ✅
 """
 
     NORSLTS = """
@@ -168,7 +166,7 @@ Owner Will Update The Movie Within 24Hour"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-🎗<b>[{file_name}](https://t.me/+3cfeesNk_cg3MGQ9)</b>🎗 \n\n🔆 <i><b>Movies Group » [@HeavenOfMovies](https://t.me/+_HgfqNy7N4owNTI1)</i></b> \n🔆 <b><i>Series Group » [@HeavenOfSeries](https://t.me/+UbT__2jSGfgzMGM1)</b></i>"""
+🎗<b>[{file_name}](https://t.me/+QpE8mpa6MUMzNTg1)</b>🎗 \n\n🔆 <i><b>Movies Group » [@HeavenOfMovies](https://t.me/+_HgfqNy7N4owNTI1)</i></b> \n🔆 <b><i>Series Group » [@HeavenOfSeries](https://t.me/+UbT__2jSGfgzMGM1)</b></i>"""
 
     IMDB_TEMPLATE_TXT = """
 <i><b>🎗️ {title} {year} \n━━━━━━━━━━━━━━━━━ \n🎭 Genre › {genres} \n⭐ Rating › {rating} \n•────────────────• \n🔆彡[ @TVSeriesCW ]彡🔆</b> </i>"""
