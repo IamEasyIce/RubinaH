@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = "<b>🧤Hᴇʟʟᴏ {}, I'ᴍ <a href=https://telegram.me/{}>{}</a> &amp; I Cᴀɴ Pʀᴏᴠɪᴅᴇ Yᴏᴜ Aɴʏ Mᴏᴠɪᴇs &amp; Sᴇʀɪᴇs</b> 😇"
+    START_TXT = "<b>🧤Hᴇʟʟᴏ {}, I'ᴍ <a href=https://telegram.me/{}>{}</a> &amp; I Can Provide You Any Porn Movies &amp; Videos</b> 😇"
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
@@ -122,7 +122,7 @@ Nᴀᴍᴇ - {}"""
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ 2 Mɪʟʟɪᴏɴ Dᴀᴛᴀʙᴀsᴇ..."""
 
-    MELCOW_ENG = """<b><i>🔆 Hᴇʏ {}, Wᴇʟᴄᴏᴍᴇ Tᴏ {} \n\nYᴏᴜ Cᴀɴ Rᴇǫᴜᴇsᴛ Aɴʏ Mᴏᴠɪᴇs, Wᴇʙ-Sᴇʀɪᴇs, Aɴɪᴍᴇ, K-Dʀᴀᴍᴀ, Aɴɪᴍᴀᴛɪᴏɴ Hᴇʀᴇ....</i></b>"""
+    MELCOW_ENG = """<b><i>🔆 Hᴇʏ {}, Wᴇʟᴄᴏᴍᴇ Tᴏ {} \n\nYᴏᴜ Cᴀɴ Rᴇǫᴜᴇsᴛ Aɴʏ Pᴏʀɴ Vɪᴅᴇᴏs , Pᴀʀᴏᴅʏ Mᴏᴠɪᴇs Hᴇʀᴇ....</i></b>"""
 
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
@@ -132,28 +132,34 @@ Nᴀᴍᴇ - {}"""
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/MrperfectOffcial_bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
-Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ, Rᴇʟᴇᴀsᴇ Dᴀᴛᴇ, Iғ Yᴏᴜ Sᴛɪʟʟ Dᴏɴ'ᴛ Gᴇᴛ Iᴛ Tᴀɢ @admin
-⊱⋅ ──────────────────── ⋅⊰
- Avatar 2009 720p @admin
+⚠ Hᴏᴡ Tᴏ Rᴇǫᴜᴇsᴛ Pᴏʀɴ ⁉️ »
+⊱⋅ ─────────────── ⋅⊰
+› Type Any Pornstar Name Or Category Tag Like...
+› Dani Daniels ✅
+› Anal ✅
+› Lesbian ✅
 
-Oᴡᴇɴʀ Wɪʟʟ Uᴘᴅᴀᴛᴇ Tʜᴇ Mᴏᴠɪᴇ"""
+› Don't Type Movie, Upload, Please, Symbol ❌
+"""
 
     MINFO = """
-⚠ Hᴏᴡ Tᴏ Rᴇǫᴜᴇsᴛ Mᴏᴠɪᴇs ⁉️ »
+⚠ Hᴏᴡ Tᴏ Rᴇǫᴜᴇsᴛ Pᴏʀɴ ⁉️ »
 ⊱⋅ ─────────────── ⋅⊰
-› Aᴠᴀᴛᴀʀ ✅
-› Aᴠᴀᴛᴀʀ 2009 720ᴘ ✅
-› Aᴠᴀᴛᴀʀ 2009 720ᴘ Hɪɴᴅɪ ✅
+› Type Any Pornstar Name Or Category Tag Like...
+› Dani Daniels ✅
+› Anal ✅
+› Lesbian ✅
 
 › Don't Type Movie, Upload, Please, Symbol ❌
 """
 
     SINFO = """
-⚠ How To Request Series ⁉️ »
+⚠ Hᴏᴡ Tᴏ Rᴇǫᴜᴇsᴛ Pᴏʀɴ ⁉️ »
 ⊱⋅ ─────────────── ⋅⊰
-› Flash S01 ✅
-› Flash Hindi ✅
-› Flash S01E02 Hindi ✅
+› Type Any Pornstar Name Or Category Tag Like...
+› Dani Daniels ✅
+› Anal ✅
+› Lesbian ✅
 
 › Don't Type Movie, Upload, Please, Symbol ❌
 """
