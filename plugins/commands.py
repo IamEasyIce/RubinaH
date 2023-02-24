@@ -262,7 +262,7 @@ async def start(client, message):
                 btn = [[
                     InlineKeyboardButton("♦️ Cʟɪᴄᴋ Hᴇʀᴇ Tᴏ Vᴇʀɪғʏ ♦️", url=await get_token(client, message.from_user.id, f"https://telegram.me/{temp.U_NAME}?start="))
                 ],[
-                    InlineKeyboardButton('‼️ Hᴏᴡ Tᴏ Vᴇʀɪғʏ ‼️', url=f'https://t.me/MrperfectOffcial/418')
+                    InlineKeyboardButton('‼️ Hᴏᴡ Tᴏ Vᴇʀɪғʏ ‼️', url=f'https://t.me/MrperfectOffcial/419')
                 ],[
                     InlineKeyboardButton('🔆 Vɪᴘ Mᴇᴍʙᴇʀsʜɪᴘ 🔆', url=f'https://t.me/MrperfectOffcial/39')
                       ]]
@@ -318,7 +318,7 @@ async def start(client, message):
         btn = [[
             InlineKeyboardButton("♦️ Cʟɪᴄᴋ Hᴇʀᴇ Tᴏ Vᴇʀɪғʏ ♦️", url=await get_token(client, message.from_user.id, f"https://telegram.me/{temp.U_NAME}?start="))
         ],[
-            InlineKeyboardButton('‼️ Hᴏᴡ Tᴏ Vᴇʀɪғʏ ‼️', url=f'https://t.me/MrperfectOffcial/418')
+            InlineKeyboardButton('‼️ Hᴏᴡ Tᴏ Vᴇʀɪғʏ ‼️', url=f'https://t.me/MrperfectOffcial/419')
         ],[
             InlineKeyboardButton('🔆 Vɪᴘ Mᴇᴍʙᴇʀsʜɪᴘ 🔆', url=f'https://t.me/MrperfectOffcial/39')
               ]]
