@@ -15,21 +15,21 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '2229357'))
 API_HASH = environ.get('API_HASH', '31f183a5a075fd4996cb8ad59e7b794f')
-BOT_TOKEN = environ.get('BOT_TOKEN', '5425847881:AAF-vNcW1Hjl_s8THDUurrcjS9ePMEfPb_I')
+BOT_TOKEN = environ.get('BOT_TOKEN', '1862447115:AAE3_fcP1AMCph8mH6c6nUdXoDKAso-tBKE')
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://te.legra.ph/file/afe7846d7d160b683c257.jpg https://te.legra.ph/file/d835c62acb9fcc5b6b712.jpg https://te.legra.ph/file/49499d4c2c185ae003f3f.jpg https://te.legra.ph/file/ba12e6ef4e4b285376d16.jpg https://te.legra.ph/file/2b397c4cc8f85dce1cd7e.jpg https://te.legra.ph/file/5126b3dfa16dd201d04e0.jpg https://te.legra.ph/file/418f0b2c328bb341071cd.jpg https://te.legra.ph/file/5bb2c5cafba261ad35e1b.jpg https://te.legra.ph/file/e895ff7a3a0b42e2721f5.jpg https://te.legra.ph/file/3d66c637d7b40d42d687e.jpg https://te.legra.ph/file/f65a9cc09661486226d90.jpg https://te.legra.ph/file/ddd9ea9ed66462b5e97dd.jpg https://te.legra.ph/file/e93ed79078f9c28ca1348.jpg https://te.legra.ph/file/b2fdcf08ad674e305e826.jpg https://te.legra.ph/file/69c7de30fd9d79ccec8a3.jpg https://te.legra.ph/file/f55b75223dc49faaa7726.jpg https://te.legra.ph/file/fe7967e76862d02821571.jpg https://te.legra.ph/file/a2c7b64c302831bcd5338.jpg https://te.legra.ph/file/ee4c8e2e77aa155d0df4b.jpg https://te.legra.ph/file/dbce8ce8d63468e6e1dec.jpg  https://te.legra.ph/file/dfcf3c688420ef8dae25b.jpg https://te.legra.ph/file/ed71128076240da39e0cf.jpg https://te.legra.ph/file/6673e06a3c021e92be713.jpg https://te.legra.ph/file/b61b3560e4de1f3c361f3.jpg https://te.legra.ph/file/cacc469a54bf111458946.jpg https://te.legra.ph/file/0498043c465bf9c46b80f.jpghttps://te.legra.ph/file/d1cce58e7c58562793741.jpg https://te.legra.ph/file/78210809e5530320eb53d.jpg')).split()
+PICS = (environ.get('PICS', 'https://te.legra.ph/file/adf86e15ab3ca523c1a45.jpg https://te.legra.ph/file/135037671067393008d51.jpg https://te.legra.ph/file/fd08afd67c52b118b1fda.jpg https://te.legra.ph/file/7034913b54265276b8b33.jpg https://te.legra.ph/file/c009bc7f71bd3f0e90d91.jpg https://te.legra.ph/file/9e35ede2d9b7bffcadd13.jpg https://te.legra.ph/file/c87d6aa97c29096d3b0f2.jpg  https://te.legra.ph/file/f6389cd23eff57753227b.jpg https://te.legra.ph/file/e214c8972725c377c6534.jpg https://te.legra.ph/file/e214c8972725c377c6534.jpg  https://te.legra.ph/file/7c30e62257be4f45a937f.jpg https://te.legra.ph/file/80aba901626d015f3ff2e.jpg https://te.legra.ph/file/4c9468ba84b3fff28292e.jpg https://te.legra.ph/file/586cb2f3fb5f4b4dd15b2.jpg https://te.legra.ph/file/9b287f3beb74be51d3e31.jpg https://te.legra.ph/file/9e9ffe63964839ef04f6a.jpg https://te.legra.ph/file/fada2609719f354084c55.jpg https://te.legra.ph/file/029ed97a0035e12df883d.jpg https://te.legra.ph/file/bd7b8dec9707bdfa9684a.jpg https://te.legra.ph/file/130aa04cc73692b473b85.jpg https://te.legra.ph/file/5b078a0fbd493e5dfe64e.jpg https://te.legra.ph/file/cb96aa590c9a5cccb1127.jpg https://te.legra.ph/file/ed2b5a28880357b1b86e1.jpg https://te.legra.ph/file/f23eb6239acf00757765a.jpg https://te.legra.ph/file/1b92a0ed03f31a98b25f9.jpg https://te.legra.ph/file/dfe55f9e41dbdc5384dc0.jpg https://te.legra.ph/file/273152d981d795f1ce8fb.jpg https://te.legra.ph/file/5ccf81ce5ea0ab1b7af7f.jpg https://te.legra.ph/file/fae5defe1927b8171c536.jpg')).split()
 NOR_IMG = environ.get("NOR_IMG", "https://te.legra.ph/file/c4fd9a3e87088868bbff5.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/451f038b4e7c2ddd10dc0.mp4")
-SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/5e2d4418525832bc9a1b9.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://te.legra.ph/file/364204ddcd64180a7c7dc.mp4")
+SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/229b746a9efacb4245b53.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '794968418').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001579792873 -1001759381758 -1001519489686 -1001325416949 -1001675698383 -1001703258932 -1001696281006 -1001633197598 -1001509604381 -1001776968498').split()]
-auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '794968418').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001603308404').split()]
+auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '1270873344 794968418 5290038359').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 auth_channel = environ.get('AUTH_CHANNEL')
 auth_grp = environ.get('AUTH_GROUP')
@@ -39,23 +39,28 @@ support_chat_id = environ.get('SUPPORT_CHAT_ID', "")
 reqst_channel = environ.get('REQST_CHANNEL_ID', "")
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
+NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", True))
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Psabot:Karuna15122000@cluster0.pbkan.mongodb.net/?retryWrites=true&w=majority")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Adultdb")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://AutoFilter:Karuna15122000@cluster0.qumeb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
+
+VERIFY = bool(environ.get('VERIFY', True))
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'easysky.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', '546326320a3c0a8fdc061f56ca40972e1e35682f')
+IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '-1001890570731').split()]
-URL_SHORTNER_WEBSITE = environ.get('URL_SHORTNER_WEBSITE', 'tnlink.in')
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '56061ff8490e8f854eace469242461072056dd85')
 PORT = environ.get("PORT", "8080")
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+QpE8mpa6MUMzNTg1')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/HeavenOfXXX')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+CuTT-clY8GQ5ZWE9')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/TVSeriesCW')
 MSG_ALRT = environ.get('MSG_ALRT', '🚩 @TVSeriesCW Best Channel In Telegram')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001500025641'))
+REQUEST_LOGS = int(environ.get('REQUEST_LOGS', '-1001820924316'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'tvseriescw_group')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)

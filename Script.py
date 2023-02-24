@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = "<b>🧤Helo {}, I'm <a href=https://telegram.me/{}>{}</a> &amp; I Can Provide You Any Porn Movies &amp; Series</b> 😇"
+    START_TXT = "<b>🧤Hᴇʟʟᴏ {}, I'ᴍ <a href=https://telegram.me/{}>{}</a> &amp; I Cᴀɴ Pʀᴏᴠɪᴅᴇ Yᴏᴜ Aɴʏ Mᴏᴠɪᴇs &amp; Sᴇʀɪᴇs</b> 😇"
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
@@ -14,7 +14,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - This Bot Is An Private Project
-- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/MrperfectOffcial_bot">ʜᴇʀᴇ</a>
+- Sᴏᴜʀᴄᴇ - <a href="https://t.me/MrperfectOffcial_bot">Cʟɪᴄᴋ Hᴇʀᴇ</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
 - <a href="https://t.me/MrperfectOffcial_bot">Ɱɾ. φҽɾƒҽçէ</a></b>"""
 
@@ -99,30 +99,30 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 ★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code>
 ★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code></b>"""
 
-    LOG_TEXT_G = """#NewGroup
+    LOG_TEXT_G = """#NᴇᴡGʀᴏᴜᴘ
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
 Tᴏᴛᴀʟ Mᴇᴍʙᴇʀs = <code>{}</code>
 Aᴅᴅᴇᴅ Bʏ - {}"""
 
-    LOG_TEXT_P = """#NewUser
+    LOG_TEXT_P = """#NᴇᴡUsᴇʀ
 ID - <code>{}</code>
 Nᴀᴍᴇ - {}"""
 
-    ALRT_TXT = """🔆 Hey {}, Its Not For You❗"""
+    ALRT_TXT = """🔆 Hᴇʏ {}, Iᴛ's Nᴏᴛ Fᴏʀ Yᴏᴜ❗"""
 
-    OLD_ALRT_TXT = """🔆 Hey {}, ❗Link Expired, Please Request Again ♻"""
+    OLD_ALRT_TXT = """🔆 Hᴇʏ {}, ❗Lɪɴᴋ Exᴘɪʀᴇᴅ, Pʟᴇᴀsᴇ Rᴇǫᴜᴇsᴛ Aɢᴀɪɴ ♻"""
 
     CUDNT_FND = """<b><i>⚠ No Results, Please Follow Request Tips!</i></b> \n <b><i>♀ Request Tips › [Click Here](https://t.me/TVSeriesCW/1378)</i></b>"""
 
-    I_CUDNT = """<b><i>⚠ No Results, Please Follow Request Tips 🎗️</i></b> \n <b><i>♀ Request Tips › [Click Here](https://t.me/TVSeriesCW/1378)</i></b>"""
+    I_CUDNT = """<b><i>⚠ No Results, Please Follow Request Tips !</i></b> \n <b><i>♀ Request Tips › [Click Here](https://t.me/TVSeriesCW/1378)</i></b>"""
 
-    I_CUD_NT = """<b><i>⚠ No Results, Please Follow Request Tips 💫</i></b> \n <b><i>♀ Request Tips › [Click Here](https://t.me/TVSeriesCW/1378)</i></b>"""
+    I_CUD_NT = """<b><i>⚠ No Results, Please Follow Request Tips!!</i></b> \n <b><i>♀ Request Tips › [Click Here](https://t.me/TVSeriesCW/1378)</i></b>"""
 
-    MVE_NT_FND = """<b><i>⚠ No Results, Please Follow Request Tips 🔆</i></b> \n <b><i>♀ Request Tips › [Click Here](https://t.me/TVSeriesCW/1378)</i></b>"""
+    MVE_NT_FND = """<b><i>⚠ No Results, Please Follow Request Tips !!</i></b> \n <b><i>♀ Request Tips › [Click Here](https://t.me/TVSeriesCW/1378)</i></b>"""
 
-    TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ 1 Million Dᴀᴛᴀʙᴀsᴇ..."""
+    TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ 2 Mɪʟʟɪᴏɴ Dᴀᴛᴀʙᴀsᴇ..."""
 
-    MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
+    MELCOW_ENG = """<b><i>🔆 Hᴇʏ {}, Wᴇʟᴄᴏᴍᴇ Tᴏ {} \n\nYᴏᴜ Cᴀɴ Rᴇǫᴜᴇsᴛ Aɴʏ Mᴏᴠɪᴇs, Wᴇʙ-Sᴇʀɪᴇs, Aɴɪᴍᴇ, K-Dʀᴀᴍᴀ, Aɴɪᴍᴀᴛɪᴏɴ Hᴇʀᴇ....</i></b>"""
 
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
@@ -132,44 +132,43 @@ Nᴀᴍᴇ - {}"""
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/MrperfectOffcial_bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
-Check Your Spelling, Release Date, If You Still Don't Get The Movie Then Type Like This...
+Cʜᴇᴄᴋ Yᴏᴜʀ Sᴘᴇʟʟɪɴɢ, Rᴇʟᴇᴀsᴇ Dᴀᴛᴇ, Iғ Yᴏᴜ Sᴛɪʟʟ Dᴏɴ'ᴛ Gᴇᴛ Iᴛ Tᴀɢ @admin
 ⊱⋅ ──────────────────── ⋅⊰
- #Request Avatar 2009 720p
+ Avatar 2009 720p @admin
 
-Owner Will Update The Movie Within 24Hour"""
+Oᴡᴇɴʀ Wɪʟʟ Uᴘᴅᴀᴛᴇ Tʜᴇ Mᴏᴠɪᴇ"""
 
     MINFO = """
-⚠ How To Request Porn ⁉️ »
+⚠ Hᴏᴡ Tᴏ Rᴇǫᴜᴇsᴛ Mᴏᴠɪᴇs ⁉️ »
 ⊱⋅ ─────────────── ⋅⊰
-› Type Any Pornstar Name Or Category Tag Like...
-› Dani Daniels ✅
-› Anal ✅
-› Lesbian ✅
+› Aᴠᴀᴛᴀʀ ✅
+› Aᴠᴀᴛᴀʀ 2009 720ᴘ ✅
+› Aᴠᴀᴛᴀʀ 2009 720ᴘ Hɪɴᴅɪ ✅
+
+› Don't Type Movie, Upload, Please, Symbol ❌
 """
 
     SINFO = """
-⚠ How To Request Porn ⁉️ »
+⚠ How To Request Series ⁉️ »
 ⊱⋅ ─────────────── ⋅⊰
-› Type Any Pornstar Name Or Category Tag Like...
-› Dani Daniels ✅
-› Anal ✅
-› Lesbian ✅
+› Flash S01 ✅
+› Flash Hindi ✅
+› Flash S01E02 Hindi ✅
+
+› Don't Type Movie, Upload, Please, Symbol ❌
 """
 
     NORSLTS = """
-★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
+★ #Aᴜᴛᴏ_Rᴇǫᴜᴇsᴛ ★
 
-𝗜𝗗 <b>: {}</b>
-
-𝗡𝗮𝗺𝗲 <b>: {}</b>
-
-𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
+♦️ <b>Usᴇʀ_ID</b> : `{}`
+♦️ <b>Rᴇǫᴜᴇsᴛᴇᴅ Bʏ : {}</b>
+🔆 <b>Rᴇǫᴜᴇsᴛ</b> : 🎗️`{}`🎗️ """
 
     CAPTION = """
-🎗<b>[{file_name}](https://t.me/+QpE8mpa6MUMzNTg1)</b>🎗 \n\n🔆 <i><b>Movies Group » [@HeavenOfMovies](https://t.me/+_HgfqNy7N4owNTI1)</i></b> \n🔆 <b><i>Series Group » [@HeavenOfSeries](https://t.me/+UbT__2jSGfgzMGM1)</b></i>"""
+🎗<b>[{file_name}](https://t.me/+3cfeesNk_cg3MGQ9)</b>🎗 \n\n🔆 <i><b>Mᴏᴠɪᴇs Gʀᴏᴜᴘ » [@HeavenOfMovies࿐•](https://t.me/+_HgfqNy7N4owNTI1)</i></b> \n🔆 <b><i>Sᴇʀɪᴇs Gʀᴏᴜᴘ » [@HeavenOfSeries࿐•](https://t.me/+UbT__2jSGfgzMGM1)</b></i>"""
 
-    IMDB_TEMPLATE_TXT = """
-<i><b>🎗️ {title} {year} \n━━━━━━━━━━━━━━━━━ \n🎭 Genre › {genres} \n⭐ Rating › {rating} \n•────────────────• \n🔆彡[ @TVSeriesCW ]彡🔆</b> </i>"""
+    IMDB_TEMPLATE_TXT = """<i><b>🎗️ {title} {year} \n━━━━━━━━━━━━━━━━ \n🎭 Gᴇɴʀᴇ » {genres} \n⭐ Rᴀᴛɪɴɢ » {rating}/10 \n♦️ Cᴀsᴛ » {cast} \n•────────────────• \n🔆彡[ @TVSeriesCW ]彡🔆</b></i>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
