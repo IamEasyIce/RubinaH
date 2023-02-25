@@ -172,7 +172,7 @@ Nᴀᴍᴇ - {}"""
 🔆 <b>Rᴇǫᴜᴇsᴛ</b> : 🎗️`{}`🎗️ """
 
     CAPTION = """
-🎗<b>[{file_name}](https://t.me/+3cfeesNk_cg3MGQ9)</b>🎗 \n\n🔆 <i><b>Mᴏᴠɪᴇs Gʀᴏᴜᴘ » [@HeavenOfMovies࿐•](https://t.me/+_HgfqNy7N4owNTI1)</i></b> \n🔆 <b><i>Sᴇʀɪᴇs Gʀᴏᴜᴘ » [@HeavenOfSeries࿐•](https://t.me/+UbT__2jSGfgzMGM1)</b></i>"""
+🎗<b>[{file_name}](https://t.me/+3cfeesNk_cg3MGQ9)</b>🎗 \n\n🔆 <i><b>Mᴏᴠɪᴇs Gʀᴏᴜᴘ » [@HeavenOfMovies࿐•](https://t.me/+_HgfqNy7N4owNTI1)</i></b> \n🔆 <b><i>Sᴇʀɪᴇs Gʀᴏᴜᴘ » [@HeavenOfSeries࿐•](https://t.me/+UbT__2jSGfgzMGM1)</b></i> \n🔆 <b><i>Aᴅᴜʟᴛ Gʀᴏᴜᴘ » [@HeavenOfXxX࿐•](https://t.me/+VzRu2EnECnIzMDk1)</b></i>"""
 
     IMDB_TEMPLATE_TXT = """<i><b>🎗️ {title} {year} \n━━━━━━━━━━━━━━━━ \n🎭 Gᴇɴʀᴇ » {genres} \n⭐ Rᴀᴛɪɴɢ » {rating}/10 \n♦️ Cᴀsᴛ » {cast} \n•────────────────• \n🔆彡[ @TVSeriesCW ]彡🔆</b></i>"""
     
